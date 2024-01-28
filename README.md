@@ -1,2 +1,2 @@
-# ccp_html_w24
-Homework2 - SI339
+# ccp_starter_code
+Starter Code for your CCP 
